@@ -441,7 +441,9 @@ td, th {
 .mb-100 {
   margin-bottom: 100px;
 }
-
+.mb-120{
+  margin-bottom: 120px;
+}
 .pt-0 {
   padding-top: 0px;
 }
@@ -2424,7 +2426,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /*-------- Start Banner Area ------------*/
-.banner-area {
+.banner-area, .home-about-area{
   background: #f9f9ff;
 }
 
