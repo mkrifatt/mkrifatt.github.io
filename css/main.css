@@ -3184,4 +3184,5 @@ body.mobile-nav-active #mobile-nav-toggle {
 .p-inner i.fa {
   font-size: 25px;
   color: #000;
+  padding: 0px 5px;
 }
