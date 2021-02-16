@@ -3179,3 +3179,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /*-------- end footer Area -------------*/
+
+/* extra */
+.p-inner i.fa {
+  font-size: 25px;
+  color: #000;
+}
